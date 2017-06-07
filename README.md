@@ -12,4 +12,4 @@ Usuários com grandes contribuições ao projeto, terão os devidos créditos no
 
 ## Licença
 
-Este projeto está licenciado sob a licença GPL-3.0 - veja o arquivo [LICENSE] (LICENSE) para obter detalhes.
+Este projeto está licenciado sob a licença GPL-3.0 - veja o arquivo [LICENSE](https://github.com/caiovidaln/ifcalc/blob/master/LICENSE) para obter detalhes.
