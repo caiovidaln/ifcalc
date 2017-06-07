@@ -12,4 +12,4 @@ Usuários com grandes contribuições ao projeto, terão os devidos créditos no
 
 ## Licença
 
-Este projeto está licenciado sob a licença GPL-3.0 - veja o arquivo [LICENSE.md] (LICENSE.md) para obter detalhes.
+Este projeto está licenciado sob a licença GPL-3.0 - veja o arquivo [LICENSE] (LICENSE) para obter detalhes.
