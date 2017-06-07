@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_configuracao"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="ifcalc.beta.activities.ConfiguracaoActivity"
+    tools:showIn="@layout/activity_configuracao">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Cálculo de Notas Ponderado"
+                    android:layout_marginRight="20dp"
+                    android:layout_centerVertical="true"
+                    android:layout_toLeftOf="@+id/switchCalculoPonderado"/>
+
+                <Switch
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true"
+                    android:id="@+id/switchCalculoPonderado"
+                    />
+
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/layoutPesos"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <include layout="@layout/line_accent" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Pesos para cálculo de notas - Disciplina Anual"
+                    android:textColor="@color/colorAccent"/>
+
+                <include layout="@layout/line_accent" />
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Bimestre 1 - Peso:"
+                        android:layout_marginRight="20dp"
+                        android:layout_centerVertical="true"
+                        android:layout_toLeftOf="@+id/edtPesoB1Anual"/>
+
+                    <EditText
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_alignParentRight="true"
+                        android:inputType="number"
+                        android:gravity="center"
+                        android:id="@+id/edtPesoB1Anual"/>
+
+                </RelativeLayout>
+
+                <include layout="@layout/line_gray" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Bimestre 2 - Peso:"
+                        android:layout_marginRight="20dp"
+                        android:layout_centerVertical="true"
+                        android:layout_toLeftOf="@+id/edtPesoB2Anual"/>
+
+                    <EditText
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_alignParentRight="true"
+                        android:inputType="number"
+                        android:gravity="center"
+                        android:id="@+id/edtPesoB2Anual"/>
+
+                </RelativeLayout>
+
+                <include layout="@layout/line_gray" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Bimestre 3 - Peso:"
+                        android:layout_marginRight="20dp"
+                        android:layout_centerVertical="true"
+                        android:layout_toLeftOf="@+id/edtPesoB3Anual"/>
+
+                    <EditText
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_alignParentRight="true"
+                        android:inputType="number"
+                        android:gravity="center"
+                        android:id="@+id/edtPesoB3Anual"/>
+
+                </RelativeLayout>
+
+                <include layout="@layout/line_gray" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Bimestre 4 - Peso:"
+                        android:layout_marginRight="20dp"
+                        android:layout_centerVertical="true"
+                        android:layout_toLeftOf="@+id/edtPesoB4Anual"/>
+
+                    <EditText
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_alignParentRight="true"
+                        android:inputType="number"
+                        android:gravity="center"
+                        android:id="@+id/edtPesoB4Anual"/>
+
+                </RelativeLayout>
+
+                <include layout="@layout/line_accent" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Pesos para cálculo de notas - Disciplina Semestral"
+                    android:textColor="@color/colorAccent"/>
+
+                <include layout="@layout/line_accent" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Bimestre 1 - Peso:"
+                        android:layout_marginRight="20dp"
+                        android:layout_centerVertical="true"
+                        android:layout_toLeftOf="@+id/edtPesoB1Semestral"/>
+
+                    <EditText
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_alignParentRight="true"
+                        android:inputType="number"
+                        android:gravity="center"
+                        android:id="@+id/edtPesoB1Semestral"/>
+
+                </RelativeLayout>
+
+                <include layout="@layout/line_gray" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Bimestre 2 - Peso:"
+                        android:layout_marginRight="20dp"
+                        android:layout_centerVertical="true"
+                        android:layout_toLeftOf="@+id/edtPesoB2Semestral"/>
+
+                    <EditText
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_alignParentRight="true"
+                        android:inputType="number"
+                        android:gravity="center"
+                        android:id="@+id/edtPesoB2Semestral"/>
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+            <include layout="@layout/line_accent" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Média para aprovação - Disciplina Anual"
+                android:textColor="@color/colorAccent"/>
+
+            <include layout="@layout/line_accent" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Média bimestral:"
+                    android:layout_marginRight="20dp"
+                    android:layout_centerVertical="true"
+                    android:layout_toLeftOf="@+id/edtMediaAnual"/>
+
+                <EditText
+                    android:layout_width="50dp"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true"
+                    android:inputType="number"
+                    android:gravity="center"
+                    android:id="@+id/edtMediaAnual"/>
+
+            </RelativeLayout>
+
+            <include layout="@layout/line_accent" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Média para aprovação - Disciplina Anual"
+                android:textColor="@color/colorAccent"/>
+
+            <include layout="@layout/line_accent" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Média bimestral:"
+                    android:layout_marginRight="20dp"
+                    android:layout_centerVertical="true"
+                    android:layout_toLeftOf="@+id/edtMediaSemestral"/>
+
+                <EditText
+                    android:layout_width="50dp"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true"
+                    android:inputType="number"
+                    android:gravity="center"
+                    android:id="@+id/edtMediaSemestral"/>
+
+            </RelativeLayout>
+
+            <include layout="@layout/line_accent" />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

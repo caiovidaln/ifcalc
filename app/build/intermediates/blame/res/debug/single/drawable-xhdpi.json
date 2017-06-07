@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_settings_big.png",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/drawable-xhdpi/ic_settings_big.png"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_file_cloud_download.png",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/drawable-xhdpi/ic_action_file_cloud_download.png"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_icon.png",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/drawable-xhdpi/logo_icon.png"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_sync_black_24dp.png",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_anotation_big.png",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/drawable-xhdpi/ic_anotation_big.png"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_calculator_big.png",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/drawable-xhdpi/ic_calculator_big.png"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_delete.png",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/drawable-xhdpi/ic_action_delete.png"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_disciplinas_big.png",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/drawable-xhdpi/ic_disciplinas_big.png"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_refresh.png",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/drawable-xhdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_content_add.png",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/drawable-xhdpi/ic_action_content_add.png"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_info_black_24dp.png",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_info_black_24dp.png"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/drawable-xhdpi/icon_novo.png",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/drawable-xhdpi/icon_novo.png"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_notifications_black_24dp.png",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_splash.png",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/drawable-xhdpi/logo_splash.png"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_done.png",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/drawable-xhdpi/ic_action_done.png"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_log.png",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/drawable-xhdpi/logo_log.png"
+    }
+]

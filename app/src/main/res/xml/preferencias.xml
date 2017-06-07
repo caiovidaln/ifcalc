@@ -1,0 +1,85 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Peso dos bimestres - Disciplina Anual">
+    	 	
+    	
+    	<EditTextPreference
+        android:key="pesob1a"
+        android:title="1º Bimestre:"
+        android:defaultValue="2"
+        android:summary="Informe o peso do 1º bimestre" />
+    	
+    	<EditTextPreference
+        android:key="pesob2a"
+        android:title="2º Bimestre:"
+        android:defaultValue="2"
+        android:summary="Informe o peso do 2º bimestre" />
+    	
+    	<EditTextPreference
+        android:key="pesob3a"
+        android:title="3º Bimestre:"
+        android:defaultValue="3"
+        android:summary="Informe o peso do 3º bimestre" />
+    	
+    	<EditTextPreference
+        android:key="pesob4a"
+        android:title="4º Bimestre:"
+        android:defaultValue="3"
+        android:summary="Informe o peso do 4º bimestre" />
+        
+    
+    </PreferenceCategory>
+    
+    <PreferenceCategory
+        android:title="Peso dos bimestres - Disciplina Semestral">
+    	 	
+    	
+    	<EditTextPreference
+        android:key="pesob1s"
+        android:title="1º Bimestre:"
+        android:defaultValue="2"
+        android:summary="Informe o peso do 1º bimestre" />
+    	
+    	<EditTextPreference
+        android:key="pesob2s"
+        android:title="2º Bimestre:"
+        android:defaultValue="3"
+        android:summary="Informe o peso do 2º bimestre" />
+    	        
+    
+    </PreferenceCategory>
+    
+    <PreferenceCategory
+        android:title="Média bimestral - Disciplina Anual">
+    	 	
+    	
+    	<EditTextPreference
+        android:key="mediaa"
+        android:title="Média bimestral:"
+        android:defaultValue="60"
+        android:summary="Informe a média bimestral" />
+    	    	    	
+    	
+        
+    
+    </PreferenceCategory>
+    
+    <PreferenceCategory
+        android:title="Média bimestral - Disciplina Semestral">
+    	 	
+    	
+    	<EditTextPreference
+        android:key="medias"
+        android:title="Média bimestral:"
+        android:defaultValue="60"
+        android:summary="Informe a média bimestral" />
+    	    	    	
+    	
+        
+    
+    </PreferenceCategory>
+    
+        
+    
+</PreferenceScreen>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:baselineAligned="false"
+    android:orientation="vertical"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="10dp"
+    android:layout_marginRight="10dp"
+    android:layout_marginLeft="10dp"
+    android:background="@color/lista_anota"
+     >
+
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+        
+          >
+	<RelativeLayout
+	   	 android:layout_width="match_parent"
+         android:layout_height="wrap_content" >
+
+          <TextView
+              android:id="@+id/titulo"
+              android:layout_width="180dp"
+              android:layout_height="wrap_content"
+              android:layout_alignParentLeft="true"
+              android:layout_alignParentTop="true"
+              android:paddingLeft="10dp"
+              android:paddingTop="15dp"
+              android:paddingBottom="15dp"
+              android:text="Trabalho de Redes de Computadores"
+              android:textColor="#fff"
+              android:textSize="20sp"
+              android:textAppearance="?android:attr/textAppearanceMedium" />
+
+          <RelativeLayout
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_alignParentRight="true"
+              android:layout_centerVertical="true"
+              android:paddingTop="5dp"
+              android:paddingBottom="5dp" >
+
+              <LinearLayout
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical" >
+
+                  <LinearLayout
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:orientation="vertical" >
+
+                      <TextView
+                          android:id="@+id/data"
+                          android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:paddingRight="10dp"
+                          android:text="20/03/2012"
+                          android:textAppearance="?android:attr/textAppearanceSmall"
+                          android:textColor="#eeeeee" />
+                  </LinearLayout>
+
+                  <LinearLayout
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:orientation="vertical" >
+
+                      <TextView
+                          android:id="@+id/hora"
+                          android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:paddingRight="10dp"
+                          android:text="20:10"
+                          android:textAppearance="?android:attr/textAppearanceSmall"
+                          android:textColor="#eeeeee"
+                          android:paddingLeft="17dp" />
+
+                  </LinearLayout>
+
+              </LinearLayout>
+
+          </RelativeLayout>
+
+</RelativeLayout>
+</LinearLayout>
+</LinearLayout>
+
+
+

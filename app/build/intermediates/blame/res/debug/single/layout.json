@@ -1,0 +1,442 @@
+[
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/content_main_new.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/content_main_new.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/activity_politica_privacidade.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/activity_politica_privacidade.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/content_import_disciplinas.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/content_import_disciplinas.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/content_anotacoes.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/content_anotacoes.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/horiz_separator.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/horiz_separator.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/service.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/service.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/sobre.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/sobre.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/card_disciplinas.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/card_disciplinas.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/main_activity.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/main_activity.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/activity_disciplina_detalhe.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/activity_disciplina_detalhe.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/activity_anotacoes.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/activity_anotacoes.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/linha_anotacao.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/linha_anotacao.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/app_bar_main.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/line_gray.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/line_gray.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/paginatabs.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/paginatabs.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/content_main_list.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/content_main_list.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/activity_import_disciplinas.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/activity_import_disciplinas.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/linha.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/linha.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/activity_calculator.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/activity_calculator.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/fragment_calculator.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/fragment_calculator.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/dialogoanotacoes.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/dialogoanotacoes.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/apresentacao.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/apresentacao.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/content_anotacao_detalhe.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/content_anotacao_detalhe.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/activity_configuracao.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/activity_configuracao.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/pop_anota.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/pop_anota.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/dialogoagenda.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/dialogoagenda.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/fragment_calculator_semestral.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/fragment_calculator_semestral.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/activity_disciplinas.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/activity_disciplinas.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/content_configuracao.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/content_configuracao.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/card_anotacoes.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/card_anotacoes.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/dialogodisciplinas.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/dialogodisciplinas.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/activity_ajuda.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/activity_ajuda.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/content_politica_privacidade.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/content_politica_privacidade.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/login.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/login.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/content_sobre.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/content_sobre.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/fragment_layout.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/fragment_layout.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/fragment_calculator_anual.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/fragment_calculator_anual.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/activity_anotacao_detalhe.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/activity_anotacao_detalhe.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/popup.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/popup.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/ajuda.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/ajuda.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/linha_anota.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/linha_anota.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/line_accent.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/line_accent.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/content_ajuda.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/content_ajuda.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/content_disciplinas.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/content_disciplinas.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/activity_sobre.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/activity_sobre.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/content_disciplina_detalhe.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/content_disciplina_detalhe.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/dashboard.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/layout/dashboard.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_layout_snackbar_include.xml"
+    }
+]

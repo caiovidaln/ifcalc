@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/drawable-ldpi/sobre_img.png",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/drawable-ldpi/sobre_img.png"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/drawable-ldpi/icon_novo.png",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/drawable-ldpi/icon_novo.png"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_sync_black_24dp.png",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/generated/res/pngs/debug/drawable-ldpi/ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/drawable-ldpi/logo_splash.png",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/drawable-ldpi/logo_splash.png"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/drawable-ldpi/logo_log.png",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/drawable-ldpi/logo_log.png"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/drawable-ldpi/logo_icon.png",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/drawable-ldpi/logo_icon.png"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_info_black_24dp.png",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/generated/res/pngs/debug/drawable-ldpi/ic_info_black_24dp.png"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_notifications_black_24dp.png",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/generated/res/pngs/debug/drawable-ldpi/ic_notifications_black_24dp.png"
+    }
+]

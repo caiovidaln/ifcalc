@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/list_bg"
+    android:baselineAligned="false"
+    android:orientation="vertical"
+    android:paddingRight="5dp"
+    android:paddingLeft="5dp"
+    android:paddingTop="5dp" >
+
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         >
+        
+	<LinearLayout
+	   	 android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="vertical" >
+
+          <TextView
+              android:id="@+id/titulo"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:paddingLeft="10dp"
+              android:paddingTop="10dp"
+              android:paddingBottom="0dp"
+             android:text="Trabalho de Microbiologia cartilagem"
+              android:textAppearance="?android:attr/textAppearanceMedium"
+              android:textColor="#000000" />
+
+          <LinearLayout
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:paddingTop="5dp"
+              android:paddingBottom="5dp" >
+
+              <LinearLayout
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical" >
+
+                  <LinearLayout
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:orientation="vertical" >
+
+                      <TextView
+                          android:id="@+id/data"
+                          android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:paddingLeft="10dp"
+                          android:text="Modificado em 19:00:20 - 20/03/2012"
+                          android:textAppearance="?android:attr/textAppearanceSmall"
+                          android:textColor="#262626" />
+                  </LinearLayout>
+
+                  <LinearLayout
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:orientation="vertical" >
+
+                      <TextView
+                          android:id="@+id/hora"
+                          android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:paddingRight="10dp"
+                          android:text=""
+                          android:textAppearance="?android:attr/textAppearanceSmall"
+                          android:textColor="#262626"
+                          android:paddingLeft="17dp" />
+
+                  </LinearLayout>
+
+              </LinearLayout>
+
+          </LinearLayout>
+
+</LinearLayout>
+</LinearLayout>
+</LinearLayout>
+
+
+

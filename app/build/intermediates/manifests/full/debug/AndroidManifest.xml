@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ifcalc.beta"
+    android:versionCode="12"
+    android:versionName="2.2.4" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon_novo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="ifcalc.beta.activities.MainActivity"
+            android:label="@string/title_activity_main"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="ifcalc.beta.activities.CalculatorActivity"
+            android:label="@string/title_activity_calculator"
+            android:parentActivityName="ifcalc.beta.activities.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ifcalc.beta.activities.MainActivity" />
+        </activity>
+        <activity
+            android:name="ifcalc.beta.activities.DisciplinasActivity"
+            android:label="@string/title_activity_disciplinas"
+            android:parentActivityName="ifcalc.beta.activities.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ifcalc.beta.activities.MainActivity" />
+        </activity>
+        <activity
+            android:name="ifcalc.beta.activities.DisciplinaDetalheActivity"
+            android:label="@string/title_activity_disciplina_detalhe"
+            android:parentActivityName="ifcalc.beta.activities.DisciplinasActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ifcalc.beta.activities.DisciplinasActivity" />
+        </activity>
+        <activity
+            android:name="ifcalc.beta.activities.AnotacoesActivity"
+            android:label="@string/title_activity_anotacoes"
+            android:parentActivityName="ifcalc.beta.activities.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ifcalc.beta.activities.MainActivity" />
+        </activity>
+        <activity
+            android:name="ifcalc.beta.activities.AnotacaoDetalheActivity"
+            android:label="@string/title_activity_anotacao_detalhe"
+            android:parentActivityName="ifcalc.beta.activities.AnotacoesActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ifcalc.beta.activities.AnotacoesActivity" />
+        </activity>
+        <activity
+            android:name="ifcalc.beta.activities.ConfiguracaoActivity"
+            android:label="@string/title_activity_configuracao"
+            android:parentActivityName="ifcalc.beta.activities.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ifcalc.beta.activities.MainActivity" />
+        </activity>
+        <activity
+            android:name="ifcalc.beta.activities.AjudaActivity"
+            android:label="@string/title_activity_ajuda"
+            android:parentActivityName="ifcalc.beta.activities.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ifcalc.beta.activities.MainActivity" />
+        </activity>
+        <activity
+            android:name="ifcalc.beta.activities.SobreActivity"
+            android:label="@string/title_activity_sobre"
+            android:parentActivityName="ifcalc.beta.activities.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ifcalc.beta.activities.MainActivity" />
+        </activity>
+        <activity
+            android:name="ifcalc.beta.activities.ImportDisciplinasActivity"
+            android:label="@string/title_activity_import_disciplinas"
+            android:parentActivityName="ifcalc.beta.activities.DisciplinasActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ifcalc.beta.activities.DisciplinasActivity" />
+        </activity>
+        <activity android:name="ifcalc.beta.activities.SplashActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="ifcalc.beta.activities.PoliticaPrivacidadeActivity"
+            android:label="@string/title_activity_politica_privacidade"
+            android:parentActivityName="ifcalc.beta.activities.ImportDisciplinasActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ifcalc.beta.activities.ImportDisciplinasActivity" />
+        </activity>
+    </application>
+
+</manifest>

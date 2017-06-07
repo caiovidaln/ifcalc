@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+     >
+ <LinearLayout
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvMens"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:text="Lembrete"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="#007c4c"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical" >
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+  android:layout_alignParentRight="true"
+        android:layout_below="@+id/etValor"
+        android:orientation="horizontal"
+        android:paddingBottom="2dp">
+ 
+       
+
+           <Button
+               android:id="@+id/btdata"
+                android:layout_width="fill_parent"
+                android:layout_height="45dp"
+                android:layout_weight="1"
+                android:background="#ededed"
+                android:textColor="#007c4c"
+                android:textSize="20dp"
+               android:text="Data"
+               />
+
+           <Button
+               android:id="@+id/bthora"
+                android:layout_width="fill_parent"
+                android:layout_height="45dp"
+                android:layout_weight="1"
+                android:background="#007c4c"
+                android:textColor="#ffffff"
+                android:textSize="20dp"
+               android:text="Hora"
+/>
+
+       
+    </LinearLayout>
+    
+    <LinearLayout
+       android:layout_width="fill_parent"
+       android:layout_height="1dp"
+       android:background="#f2f2f2"
+       android:orientation="vertical" >
+   </LinearLayout>
+
+    <DatePicker
+        android:id="@+id/datePicker1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TimePicker
+        android:id="@+id/timePicker1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+ 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+  android:layout_alignParentRight="true"
+        android:layout_below="@+id/etValor"
+        android:orientation="horizontal"
+        android:background="#f0f0f0"
+        android:paddingTop="2dp"
+        android:paddingBottom="2dp"
+        android:layout_marginTop="10dp">
+ 
+       
+
+           <Button
+               android:id="@+id/salvar"
+                android:layout_width="fill_parent"
+                android:layout_height="45dp"
+                android:layout_weight="1"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/sombra_bt"
+                android:textColor="#ffffff"
+                android:textSize="20dp"
+               android:text="Salvar"
+               />
+
+           <Button
+               android:id="@+id/excluir"
+                android:layout_width="fill_parent"
+                android:layout_height="45dp"
+                android:layout_weight="1"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/sombra_bt"
+                android:textColor="#ffffff"
+                android:textSize="20dp"
+               android:text="Cancelar"
+               android:layout_marginRight="10dp" />
+
+       
+    </LinearLayout>
+    </LinearLayout>
+ 
+</RelativeLayout>

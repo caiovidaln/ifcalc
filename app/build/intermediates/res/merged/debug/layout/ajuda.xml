@@ -1,0 +1,200 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+     android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+ <LinearLayout
+      android:id="@+id/linearLayout1"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:orientation="horizontal"
+     >
+    
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:gravity="top"
+    android:orientation="vertical"
+    android:id="@+id/linearLayoutg">
+
+ 
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="#007c4c">
+
+      <RelativeLayout
+          android:layout_width="wrap_content"
+          android:layout_height="50dp">
+
+          <ImageButton
+              android:id="@+id/btfechar"
+              android:layout_width="wrap_content"
+              android:layout_height="50dp"
+              android:layout_alignParentLeft="true"
+              android:layout_centerVertical="true"
+              android:src="@drawable/logo_seta"
+              android:layout_marginLeft="15dp"
+              android:background="@color/menu_focus" />
+
+      </RelativeLayout>
+        
+    </LinearLayout>
+    
+    <ScrollView
+           android:id="@+id/scrollView1"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+        	 android:fadingEdge="none">
+
+          <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:paddingTop="15dp" >
+           
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+       android:orientation="vertical" >
+
+       
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="Nessa versão, você tem a possíbilidade de utilizar três funções principais do aplicativo. "
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#000000" />
+            </LinearLayout>
+             <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+            
+                 <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:paddingRight="10dp"
+                android:text="No primeiro ícone, você pode simular e calcular sua média anual de forma independente, ou calcular quanto você precisa no ultimo, nos ultimos bimestres, ou na prova final. Além de alternar entre cálculo para disciplina anual ou disciplina semestral."
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#000000" />
+           
+			</LinearLayout>
+			
+               <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+            
+            
+             <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:paddingRight="10dp"
+                android:text="No segundo ícone, você pode organizar todas as suas disciplinas, salvando as suas notas bimestrais e verificando a sua situação anual, se está aprovado, em recuperação, ou cursando, quanto você precisa para passar, e quando precisa na prova final. Você pode escolher o tipo da disciplina, se ela é semestral ou anual."
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#000000" />
+			</LinearLayout>
+			
+                <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+            
+            
+             <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:paddingRight="10dp"
+                android:text="No terceiro ícone, você pode criar anotações como lembretes, seja para guardar alguma informação ou para guardar tarefas a fazer. Você pode colocar essa anotação como notificação se desejar."
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#000000" />
+			</LinearLayout>   
+			
+                  <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+            
+            
+             <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:paddingRight="10dp"
+                android:text="No quarto ícone, você pode configurar o IFCalc+, alterando os pesos de cada bimestre ou a média bimestral."
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#000000" />
+			</LinearLayout>  
+               
+               
+			 <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:paddingRight="10dp"
+                android:text="As notas bimestrais são na escala de 0-100."
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#000000" />
+			</LinearLayout>
+               
+			 <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:paddingRight="10dp"
+                android:text="Alguma duvida a mais ou problema? Entre em contato!"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#000000" />
+			</LinearLayout>
+			<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="5dp"
+                android:paddingRight="10dp"
+                android:paddingBottom="15dp"
+                android:text="ifcalcapp@gmail.com"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#000000" />
+			</LinearLayout>
+
+    </LinearLayout>
+    </LinearLayout>
+       </ScrollView>
+
+</LinearLayout>
+
+</LinearLayout>
+
+</FrameLayout>

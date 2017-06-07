@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/menu/activity_main.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/menu/activity_main.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/menu/activity_detalhe.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/menu/activity_detalhe.xml"
+    },
+    {
+        "merged": "/Users/caiovidal/Projects/ifcalc-open-source/app/build/intermediates/res/merged/debug/menu/activity_disciplinas.xml",
+        "source": "/Users/caiovidal/Projects/ifcalc-open-source/app/src/main/res/menu/activity_disciplinas.xml"
+    }
+]
