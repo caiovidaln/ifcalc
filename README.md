@@ -6,7 +6,7 @@ Repositório oficial do aplicativo [IFCalc para Android](https://play.google.com
 
 O IFCalc está aberto a contribuição de qualquer pessoa que esteja disposto a melhorar a ferramenta. Ao passo que ocorrer mudanças significativas, será criada uma versão release e enviada para o Play Store.
 
-Ajude a melhorar a ferramenta que ~4300 pessoas utilizam nesse momento. No total, mais de 33k downloads.
+Ajude a melhorar a ferramenta que ~5100 pessoas utilizam nesse momento. No total, mais de 42k downloads.
 
 Usuários com grandes contribuições ao projeto, terão os devidos créditos no aplicativo. 
 
