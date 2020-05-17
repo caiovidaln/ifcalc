@@ -248,7 +248,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Média para aprovação - Disciplina Anual"
+                android:text="Média para aprovação - Disciplina Semestral"
                 android:textColor="@color/colorAccent"/>
 
             <include layout="@layout/line_accent" />
